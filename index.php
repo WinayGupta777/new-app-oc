@@ -1,5 +1,5 @@
 <?php
 
-print "Hello Openshift";
+print "Hello Openshift | Commit no Two";
 
 ?>
