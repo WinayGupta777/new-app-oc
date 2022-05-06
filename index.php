@@ -1,6 +1,6 @@
 <?php
 
-print "Hello Openshift | Commit no Two";
-print "Hello RHOCP Lab !!";
+print "Hello Openshift | Current php version::" . PHP_VERSION . "\n";
+print "Hello RHOCP Lab !!\n";
 
 ?>
